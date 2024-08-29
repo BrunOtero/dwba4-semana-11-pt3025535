@@ -1,0 +1,13 @@
+#main-sobre {
+  margin: 5vh 2vw;
+}
+
+#rodape {
+  position: absolute;
+  bottom: 5vh;
+  margin: 5vh 2vw 0;
+}
+
+#main-sobre p,  #rodape p {
+  margin-top: 2vh;
+}
